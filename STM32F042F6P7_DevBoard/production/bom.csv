@@ -1,0 +1,14 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C16, C6",0805,3,0.1uF,C0805C104J5RACTU
+"C4, C7",T491A(clean),2,T491A105M025AT,
+"D1, D2",1206,2,LED,//////////////////////////
+D39,1206,1,RX,//////////////////////////
+D40,1206,1,TX,//////////////////////////
+IC1,CLT34BT6,1,STM32F042F6P7,
+IC2,SOT95P280X145-5N,1,SPX3819M5-L-3-3/TR,
+"J1, J2",PinHeader_1x11_P2.54mm_Vertical,2,Conn_01x11_Pin,
+J3,USB_C_Receptacle_GCT_USB4085,1,USB_C_Receptacle,USB4085-GF-A
+JP1,SW_Push_SPST_NO_Alps_SKRK,1,BOOT,
+"R1, R3",0805,2,10k,CR0805-FX-1002ELF
+"R2, R4, R5, R6",0805,4,1k,CR0805-FX-1001ELF
+U3,TSSOP-14_4.4x5mm_P0.65mm,1,MCP2221A-I/ST,MCP2221A-I/ST
